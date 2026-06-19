@@ -94,11 +94,11 @@ The dashboards are connected through interactive navigation buttons for a seamle
 
 ### Sales Overview Dashboard
 
-![Sales Dashboard](Sales Dashboard screenshot.png)
+<img src="Sales Dashboard screenshot.png" width="1000">
 
 ### Product & Customer Insights Dashboard
 
-![Product Dashboard](Product Dashboard screenshot.png)
+<img src="Product Dashboard screenshot.png" width="1000">
 
 ## Author
 
