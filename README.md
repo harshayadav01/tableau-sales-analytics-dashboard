@@ -17,6 +17,25 @@ This project aims to:
 - Evaluate regional performance
 - Understand discount impact on profit
 
+## Dataset Information
+
+The dataset contains sales transaction records with the following key fields:
+
+- Order ID
+- Order Date
+- Customer Name
+- Product Name
+- Category
+- Region
+- Segment
+- Sales
+- Profit
+- Discount
+- Quantity
+- Shipping Days
+
+The data was analyzed and visualized using Tableau to generate business insights and support decision-making.
+
 ## Dashboard Structure
 
 ### Dashboard 1: Sales Overview Dashboard
@@ -50,6 +69,14 @@ Product & Customer Insights Dashboard
 
 The dashboards are connected through interactive navigation buttons for a seamless user experience.
 
+## Key Insights
+
+- Technology category contributes the highest share of sales.
+- Consumer segment generates the highest revenue.
+- Regional performance varies significantly across locations.
+- Discounts have a direct impact on profitability.
+- A small group of products contributes a large portion of total sales.
+
 ## Tools Used
 
 - Tableau
@@ -62,6 +89,16 @@ The dashboards are connected through interactive navigation buttons for a seamle
 - Dashboard Design
 - KPI Development
 - Business Analytics
+
+## Dashboard Preview
+
+### Sales Overview Dashboard
+
+![Sales Dashboard](Sales Dashboard screenshot.png)
+
+### Product & Customer Insights Dashboard
+
+![Product Dashboard](Product Dashboard screenshot.png)
 
 ## Author
 
